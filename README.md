@@ -2,13 +2,14 @@
 Created Screen Braille Display with SMA modules connected to PC or Phone using Arduino as embedded micro controller to send text from screen as Braille codes to SMA modules.
 
 # Platform Specification:
-• Embedded Micro Controller : Arduino (preferably)
-• USB Interface
-• Bluetooth: BLE 4.0.
-• Communication Protocol: UART
+1. Embedded Micro Controller : Arduino (preferably)
+2. USB Interface
+2. Bluetooth: BLE 4.0.
+4. Communication Protocol: UART
 
 # Requirements: 
 The Device should incorporate following features:
+
     Hardware:
     1. The Hardware Includes a main Controller with interfaces to interact with other peripherals,
     Bluetooth, USB converter (FTDI) and Power Supply. 
@@ -26,9 +27,9 @@ The Device should incorporate following features:
             i. USB mode ii. BLE mode
 
 # Deliverables:
-• The Final deliverables will be a 20 Cell Passive braille display prototype with connectivity to PC and Smartphone through USB and Bluetooth mounted in a complete enclosure.
-• The prototype would undergo a trail with a Visually Impaired user and the feedback to be incorporated before the final Demonstration.
-• Documentation of the system developed
-• Complete Source code uploaded to the repository specified
+1. The Final deliverables will be a 20 Cell Passive braille display prototype with connectivity to PC and Smartphone through USB and Bluetooth mounted in a complete enclosure.
+2. The prototype would undergo a trail with a Visually Impaired user and the feedback to be incorporated before the final Demonstration.
+3. Documentation of the system developed
+4. Complete Source code uploaded to the repository specified
 
 
